@@ -1,2 +1,6 @@
 First file
+<<<<<<< HEAD
 bruh1
+=======
+bruh2
+>>>>>>> 067405e0a246cd6a4091b3fa0b4af6d1673260c6
